@@ -1,0 +1,10 @@
+.env
+.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.evaluation-state/
+.idea/*
+desafio_langchain_langsmith.md
